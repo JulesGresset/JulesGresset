@@ -3,17 +3,17 @@
 </div>
 
 <div align="center">
-  <img height="75" src="https://github.com/user-attachments/assets/28dc773a-8d29-4b20-820e-db270973fe8c"/>
+  <img height="75" src="https://github.com/user-attachments/assets/723ae451-2751-429c-8f28-5022ec92fd7c"/>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulesGresset&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesGresset&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <div align="center">
-  <img height="75" src="https://github.com/user-attachments/assets/691f6f15-754e-4249-88d7-2465228a2972"/>
+  <img height="75" src="https://github.com/user-attachments/assets/b04273c4-978a-4fe8-b466-a431d339b900"/>
 </div>
 
-<img height="40" src="https://github.com/user-attachments/assets/19e6a111-ddd1-48ce-a721-07c8f1b7d52b"/>
+<img height="40" src="https://github.com/user-attachments/assets/48c03d8c-9860-4284-8e55-f1b184750de5"/>
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit)
@@ -25,7 +25,7 @@
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img height="40" src="https://github.com/user-attachments/assets/3d1df999-987a-4755-bec5-891d1b4ea96a"/>
+<img height="40" src="https://github.com/user-attachments/assets/afc880ea-77a6-4870-827e-e72f5126d5cb"/>
 
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
@@ -40,20 +40,20 @@
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-<img height="40" src="https://github.com/user-attachments/assets/ebd8d88f-0d75-495c-bdff-507e95d3f7f4"/>
+<img height="40" src="https://github.com/user-attachments/assets/fed6c11b-7178-42f2-8667-bd99ff6730ab"/>
 
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![image](https://img.shields.io/badge/OVH%20Cloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<img height="40" src="https://github.com/user-attachments/assets/61d59bdc-a074-4184-aec1-2c0e4ad330e0"/>
+<img height="40" src="https://github.com/user-attachments/assets/c7e64049-5916-47bb-be16-b41604a50552"/>
 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 <div align="center">
-  <img height="75" src="https://github.com/user-attachments/assets/64088aef-50ac-4e2e-9531-adff466c8e07"/>
+  <img height="75" src="https://github.com/user-attachments/assets/fd706088-5bfc-4c59-8d9a-a384df021e19"/>
 </div>
 
 ![image](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
